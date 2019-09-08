@@ -89,7 +89,7 @@ def adding_matz
    :known_for => "Ruby",
    :languages => ["LISP", "C"]
   }
-  programmer_hash.sort[:yukihiro_matsumoto, :grace_hopper, :alan_kay, :dennis_ritchie]
+  p programmer_hash
     
 end
 
